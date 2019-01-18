@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils import timezone
+from django.contrib import auth
 
 
 class Post(models.Model):
